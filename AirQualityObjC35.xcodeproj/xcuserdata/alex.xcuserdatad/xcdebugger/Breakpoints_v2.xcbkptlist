@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F639332E-7BE8-4D9C-9752-DA3A72DCFF5B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4ED8C6D-62BA-4168-9CC8-860863CB757B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AirQualityObjC35/Controllers/Model Controllers/AXLCityAirQualityController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "-fetchSupportedStatesInCountry:completion:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D400D6C3-1FFD-4824-AC58-A7C879AB5D4D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AirQualityObjC35/Controllers/Model Controllers/AXLCityAirQualityController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "-fetchSupportedStatesInCountry:completion:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB6FD281-82D0-483E-94B5-848028AA486C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AirQualityObjC35/Controllers/Model Controllers/AXLCityAirQualityController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "-fetchSupportedStatesInCountry:completion:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CB6FD281-82D0-483E-94B5-848028AA486C - b4e4fb05fe0ce9f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__72-[AXLCityAirQualityController fetchSupportedStatesInCountry:completion:]_block_invoke"
+                  moduleName = "AirQualityObjC35"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Projects/Coding/iOS35/projects_etc/Week04/Day03_Wednesday/AirQualityObjC35/AirQualityObjC35/Controllers/Model%20Controllers/AXLCityAirQualityController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "896">
+               </Location>
+               <Location
+                  uuid = "CB6FD281-82D0-483E-94B5-848028AA486C - b4e4fb05fe0ce9f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__72-[AXLCityAirQualityController fetchSupportedStatesInCountry:completion:]_block_invoke"
+                  moduleName = "AirQualityObjC35"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Projects/Coding/iOS35/projects_etc/Week04/Day03_Wednesday/AirQualityObjC35/AirQualityObjC35/Controllers/Model%20Controllers/AXLCityAirQualityController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "918">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
